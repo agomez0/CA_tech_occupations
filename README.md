@@ -16,7 +16,7 @@ The goal of this project is to prepare and clean data for further evaluation of 
     ook versions that we prototyped the code.
 
 ## Resources:
--State_M2017_dl files in csv and excel
+* State_M2017_dl files in csv and excel
 
 ## How to use app:
 * Insert your mysql database connection settings into the config.py file
