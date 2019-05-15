@@ -8,6 +8,8 @@ import config
 
 def load_data_sql(tuple):
 
+    db = "tech_occupational_db"
+
     pymysql.install_as_MySQLdb()
     rds_connection_string = f"{config.mysqlinfo['username']}:{config.mysqlinfo['password']}@{config.mysqlinfo['host']}:{config.mysqlinfo['port']}/{db}"
     engine = create_engine(f'mysql://{rds_connection_string}')
