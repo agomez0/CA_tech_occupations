@@ -1,4 +1,4 @@
-# Contributors: Angie, Trinidad, and Jenny
+### Contributors: Angie, Trinidad, and Jenny
 
 ## Goal:
 The goal of this project is to prepare and clean data for further evaluation of current and future labor prospects for jobs/careers in the tech industry, with a particular emphasis on data science and analytics.
