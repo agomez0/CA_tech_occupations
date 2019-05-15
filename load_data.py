@@ -4,6 +4,7 @@ from sqlalchemy import create_engine
 
 # PyMySQL 
 import pymysql
+import config
 
 def load_data_sql(tuple):
 
