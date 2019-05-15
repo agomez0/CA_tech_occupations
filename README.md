@@ -13,7 +13,7 @@ The goal of this project is to prepare and clean data for further evaluation of 
     - app.py to run the ETL code and add data to sql database
     - extract, load, transform - carry out specified functions
 * .ipynb
-    ook versions that we prototyped the code.
+    Jupyter notebook versions in which we prototyped the code.
 
 ## Resources:
 * State_M2017_dl files in csv and excel
