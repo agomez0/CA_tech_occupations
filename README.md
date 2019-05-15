@@ -19,8 +19,9 @@ The goal of this project is to prepare and clean data for further evaluation of 
 -State_M2017_dl files in csv and excel
 
 #How to use app:
-* First run the tech_occ_db.sql file on mySQL to create the database into which the transformed data will be loaded
-* Next run the app.py file
+* Insert your mysql database connection settings into the config.py file
+* Next, run the tech_occ_db.sql file on mySQL to create the database into which the transformed data will be loaded
+* Run the app.py file
 
 #The main source of information is obtained from:
 Beaurea of labor statitics
