@@ -8,10 +8,10 @@ The goal of this project is to prepare and clean data for further evaluation of 
 
 ## The repository contains the following files:
 * .sql
-    -tech_occ_db.sql this file creates the database
+    - tech_occ_db.sql this file creates the database
 * .py
-    -app.py to run the ETL code and add data to sql database
-    -extract, load, transform - carry out specified functions
+    - app.py to run the ETL code and add data to sql database
+    - extract, load, transform - carry out specified functions
 * .ipynb
     ook versions that we prototyped the code.
 
