@@ -1,7 +1,9 @@
 ### Contributors: Angie, Trinidad, and Jenny
 
+# California Tech Occupations 2017
+
 ## Goal:
-The goal of this project is to prepare and clean data for further evaluation of current and future labor prospects for jobs/careers in the tech industry, with a particular emphasis on data science and analytics.
+The goal of this project is to prepare and clean data for further evaluation of current and future labor prospects for occupations in the tech industry, with a particular emphasis on data science and analytics.
 
 * The occupations table contains all of the tech-related occupation titles and their occupation code.
 * The yearly_stats table contains yearly stats(e.g. annual median income) of tech occupations in California for 2017.
