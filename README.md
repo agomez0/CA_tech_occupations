@@ -12,7 +12,7 @@ The goal of this project is to prepare and clean data for further evaluation of 
 * .sql
     - tech_occ_db.sql: this file creates the database
 * .py
-    - app.py to run the ETL code and add data to sql database
+    - app.py to run the ETL code and add data to MySQL database
     - extract, load, transform - carry out specified functions
 * .ipynb
     - Jupyter notebook versions in which we prototyped the code
