@@ -23,7 +23,7 @@ The goal of this project is to prepare and clean data for further evaluation of 
 ## How to use app:
 * Insert your mysql database connection settings into the [config.py](config.py) file.
 * Next, run the tech_occ_db.sql file on MySQL to create the database into which the transformed data will be loaded.
-* `python app.py`
+* Open the terminal in the downloaded repo and run the command `python app.py`
 
 ## The main source of information is obtained from:
 Beaurea of labor statitics
